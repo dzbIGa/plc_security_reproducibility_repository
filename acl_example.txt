@@ -1,0 +1,8 @@
+! Publication-safe ACL example
+! Permit only defined engineering flows from IT to OT
+ip access-list extended PLC_CONTROL_MINIMAL
+ permit tcp host 10.20.0.10 host 10.10.0.20 eq 102
+ permit tcp host 10.20.0.10 host 10.10.0.21 eq 102
+ permit tcp host 10.20.0.10 host 10.10.0.20 eq 443
+ deny ip any 10.10.0.0 0.0.0.255 log
+ permit ip any any

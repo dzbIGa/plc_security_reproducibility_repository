@@ -1,0 +1,5 @@
+Scenario,Baseline_packets_per_sec,Post_Mitigation_packets_per_sec
+Replay Attack,120,18
+Brute-force Login,95,28
+Unauthorized Firmware Upload,130,36
+Configuration Dump,180,15

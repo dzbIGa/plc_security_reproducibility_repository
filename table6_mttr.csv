@@ -1,0 +1,5 @@
+Scenario,MTTR_Baseline_s,MTTR_Post_Mitigation_s,Improvement_percent
+Replay Attack,65,0,100.0
+Brute-force Login,90,35,61.1
+Firmware Upload,110,40,63.6
+Configuration Dump,75,0,100.0

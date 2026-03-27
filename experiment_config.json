@@ -1,0 +1,39 @@
+{
+  "study_title": "Vulnerability Assessment and Mitigation for Siemens S7-1200 and S7-1500 PLCs in Industrial Networks",
+  "plc_models": [
+    "Siemens S7-1200 CPU 1214C",
+    "Siemens S7-1500 CPU 1511-1 PN"
+  ],
+  "hmi": "Siemens KTP700 Basic",
+  "switch": "Cisco Catalyst 2960X",
+  "engineering_station": "Intel i7, 32 GB RAM, Windows 10 Pro",
+  "software": {
+    "TIA_Portal": "V17/V18",
+    "PLCSIM_Advanced": "V4.0",
+    "Wireshark": "4.2.5",
+    "Scapy": "2.5.0",
+    "Hydra": "9.5",
+    "Snap7": "1.4.2"
+  },
+  "metrics": [
+    "ASR",
+    "MTTR",
+    "Traffic Volume"
+  ],
+  "repetitions_per_condition": 20,
+  "attack_scenarios": [
+    "Replay Attack",
+    "Brute-force Login",
+    "Unauthorized Firmware Upload",
+    "Configuration Dump"
+  ],
+  "post_mitigation_controls": [
+    "TLS (where supported)",
+    "VLAN segmentation",
+    "ACLs",
+    "password hardening",
+    "firmware updates",
+    "Snort IDS monitoring"
+  ],
+  "notes": "Contains only non-sensitive, publication-oriented metadata."
+}

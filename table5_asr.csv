@@ -1,0 +1,5 @@
+Attack Type,ASR_Baseline_percent,ASR_After_Mitigation_percent,Reduction_percent
+Replay Attack (Stop PLC),100,0,100.0
+Brute-force Login,80,10,87.5
+Unauthorized Firmware Upload,70,10,85.7
+Configuration Dump,90,0,100.0

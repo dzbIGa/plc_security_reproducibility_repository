@@ -1,0 +1,8 @@
+Metric,Scenario,Mean_Difference,t_value,p_value,CI_95,Cohens_d
+ASR,Replay Attack,-100,-18.42,3e-07,"[-112, -88]",3.9
+ASR,Brute-force Login,-70,-14.75,1.1e-06,"[-82, -58]",3.2
+ASR,Firmware Upload,-60,-12.88,4.2e-06,"[-71, -49]",2.9
+ASR,Configuration Dump,-90,-17.11,6e-07,"[-101, -79]",3.7
+MTTR,Replay Attack,-65,-9.82,1.2e-05,"[-79, -51]",2.1
+MTTR,Firmware Upload,-70,-10.45,8e-06,"[-85, -55]",2.3
+Traffic Volume,Configuration Dump,-165,-19.03,2e-07,"[-183, -147]",4.1

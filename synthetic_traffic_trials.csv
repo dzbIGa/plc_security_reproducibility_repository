@@ -1,0 +1,161 @@
+Scenario,Condition,Trial,Packets_per_sec
+Replay Attack,Baseline,1,118
+Replay Attack,Baseline,2,121
+Replay Attack,Baseline,3,119
+Replay Attack,Baseline,4,122
+Replay Attack,Baseline,5,120
+Replay Attack,Baseline,6,117
+Replay Attack,Baseline,7,123
+Replay Attack,Baseline,8,121
+Replay Attack,Baseline,9,119
+Replay Attack,Baseline,10,120
+Replay Attack,Baseline,11,122
+Replay Attack,Baseline,12,118
+Replay Attack,Baseline,13,121
+Replay Attack,Baseline,14,120
+Replay Attack,Baseline,15,119
+Replay Attack,Baseline,16,123
+Replay Attack,Baseline,17,117
+Replay Attack,Baseline,18,122
+Replay Attack,Baseline,19,120
+Replay Attack,Baseline,20,121
+Replay Attack,PostMitigation,1,18
+Replay Attack,PostMitigation,2,17
+Replay Attack,PostMitigation,3,19
+Replay Attack,PostMitigation,4,18
+Replay Attack,PostMitigation,5,18
+Replay Attack,PostMitigation,6,17
+Replay Attack,PostMitigation,7,19
+Replay Attack,PostMitigation,8,18
+Replay Attack,PostMitigation,9,18
+Replay Attack,PostMitigation,10,18
+Replay Attack,PostMitigation,11,17
+Replay Attack,PostMitigation,12,19
+Replay Attack,PostMitigation,13,18
+Replay Attack,PostMitigation,14,18
+Replay Attack,PostMitigation,15,17
+Replay Attack,PostMitigation,16,19
+Replay Attack,PostMitigation,17,18
+Replay Attack,PostMitigation,18,18
+Replay Attack,PostMitigation,19,17
+Replay Attack,PostMitigation,20,19
+Brute-force Login,Baseline,1,93
+Brute-force Login,Baseline,2,96
+Brute-force Login,Baseline,3,95
+Brute-force Login,Baseline,4,94
+Brute-force Login,Baseline,5,97
+Brute-force Login,Baseline,6,95
+Brute-force Login,Baseline,7,96
+Brute-force Login,Baseline,8,94
+Brute-force Login,Baseline,9,95
+Brute-force Login,Baseline,10,95
+Brute-force Login,Baseline,11,93
+Brute-force Login,Baseline,12,97
+Brute-force Login,Baseline,13,94
+Brute-force Login,Baseline,14,96
+Brute-force Login,Baseline,15,95
+Brute-force Login,Baseline,16,94
+Brute-force Login,Baseline,17,97
+Brute-force Login,Baseline,18,95
+Brute-force Login,Baseline,19,96
+Brute-force Login,Baseline,20,94
+Brute-force Login,PostMitigation,1,27
+Brute-force Login,PostMitigation,2,29
+Brute-force Login,PostMitigation,3,28
+Brute-force Login,PostMitigation,4,27
+Brute-force Login,PostMitigation,5,30
+Brute-force Login,PostMitigation,6,28
+Brute-force Login,PostMitigation,7,29
+Brute-force Login,PostMitigation,8,27
+Brute-force Login,PostMitigation,9,28
+Brute-force Login,PostMitigation,10,28
+Brute-force Login,PostMitigation,11,27
+Brute-force Login,PostMitigation,12,29
+Brute-force Login,PostMitigation,13,30
+Brute-force Login,PostMitigation,14,27
+Brute-force Login,PostMitigation,15,28
+Brute-force Login,PostMitigation,16,28
+Brute-force Login,PostMitigation,17,29
+Brute-force Login,PostMitigation,18,27
+Brute-force Login,PostMitigation,19,28
+Brute-force Login,PostMitigation,20,29
+Unauthorized Firmware Upload,Baseline,1,128
+Unauthorized Firmware Upload,Baseline,2,131
+Unauthorized Firmware Upload,Baseline,3,130
+Unauthorized Firmware Upload,Baseline,4,129
+Unauthorized Firmware Upload,Baseline,5,132
+Unauthorized Firmware Upload,Baseline,6,130
+Unauthorized Firmware Upload,Baseline,7,131
+Unauthorized Firmware Upload,Baseline,8,129
+Unauthorized Firmware Upload,Baseline,9,130
+Unauthorized Firmware Upload,Baseline,10,130
+Unauthorized Firmware Upload,Baseline,11,128
+Unauthorized Firmware Upload,Baseline,12,132
+Unauthorized Firmware Upload,Baseline,13,129
+Unauthorized Firmware Upload,Baseline,14,131
+Unauthorized Firmware Upload,Baseline,15,130
+Unauthorized Firmware Upload,Baseline,16,129
+Unauthorized Firmware Upload,Baseline,17,132
+Unauthorized Firmware Upload,Baseline,18,130
+Unauthorized Firmware Upload,Baseline,19,131
+Unauthorized Firmware Upload,Baseline,20,129
+Unauthorized Firmware Upload,PostMitigation,1,35
+Unauthorized Firmware Upload,PostMitigation,2,37
+Unauthorized Firmware Upload,PostMitigation,3,36
+Unauthorized Firmware Upload,PostMitigation,4,35
+Unauthorized Firmware Upload,PostMitigation,5,38
+Unauthorized Firmware Upload,PostMitigation,6,36
+Unauthorized Firmware Upload,PostMitigation,7,37
+Unauthorized Firmware Upload,PostMitigation,8,35
+Unauthorized Firmware Upload,PostMitigation,9,36
+Unauthorized Firmware Upload,PostMitigation,10,36
+Unauthorized Firmware Upload,PostMitigation,11,35
+Unauthorized Firmware Upload,PostMitigation,12,37
+Unauthorized Firmware Upload,PostMitigation,13,38
+Unauthorized Firmware Upload,PostMitigation,14,35
+Unauthorized Firmware Upload,PostMitigation,15,36
+Unauthorized Firmware Upload,PostMitigation,16,36
+Unauthorized Firmware Upload,PostMitigation,17,37
+Unauthorized Firmware Upload,PostMitigation,18,35
+Unauthorized Firmware Upload,PostMitigation,19,36
+Unauthorized Firmware Upload,PostMitigation,20,37
+Configuration Dump,Baseline,1,178
+Configuration Dump,Baseline,2,181
+Configuration Dump,Baseline,3,180
+Configuration Dump,Baseline,4,179
+Configuration Dump,Baseline,5,182
+Configuration Dump,Baseline,6,180
+Configuration Dump,Baseline,7,181
+Configuration Dump,Baseline,8,179
+Configuration Dump,Baseline,9,180
+Configuration Dump,Baseline,10,180
+Configuration Dump,Baseline,11,178
+Configuration Dump,Baseline,12,182
+Configuration Dump,Baseline,13,179
+Configuration Dump,Baseline,14,181
+Configuration Dump,Baseline,15,180
+Configuration Dump,Baseline,16,179
+Configuration Dump,Baseline,17,182
+Configuration Dump,Baseline,18,180
+Configuration Dump,Baseline,19,181
+Configuration Dump,Baseline,20,179
+Configuration Dump,PostMitigation,1,14
+Configuration Dump,PostMitigation,2,16
+Configuration Dump,PostMitigation,3,15
+Configuration Dump,PostMitigation,4,14
+Configuration Dump,PostMitigation,5,17
+Configuration Dump,PostMitigation,6,15
+Configuration Dump,PostMitigation,7,16
+Configuration Dump,PostMitigation,8,14
+Configuration Dump,PostMitigation,9,15
+Configuration Dump,PostMitigation,10,15
+Configuration Dump,PostMitigation,11,14
+Configuration Dump,PostMitigation,12,16
+Configuration Dump,PostMitigation,13,17
+Configuration Dump,PostMitigation,14,14
+Configuration Dump,PostMitigation,15,15
+Configuration Dump,PostMitigation,16,15
+Configuration Dump,PostMitigation,17,16
+Configuration Dump,PostMitigation,18,14
+Configuration Dump,PostMitigation,19,15
+Configuration Dump,PostMitigation,20,16
